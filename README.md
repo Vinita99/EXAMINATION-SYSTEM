@@ -11,6 +11,6 @@ Project Objective
 >>It will reduce paper work to be an integrated Examination System.
 >>The result can be shown immediately to the students reducing the anxiety.
 >>Can create various reports and graphs for evaluation purpose almost instantly when and where required.
-![](capture1.JPG)
-![](capture2.JPG)
-![](capture3.JPG)
+![](Capture1.JPG)
+![](Capture2.JPG)
+![](Capture3.JPG)
